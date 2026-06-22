@@ -3,7 +3,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: "export",
 
-  basePath: "/Princeattri777",
+  basePath: "/Vrindavan-Resorts",
+  assetPrefix: "/Vrindavan-Resorts/",
 
   images: {
     unoptimized: true,
